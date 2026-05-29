@@ -1,4 +1,4 @@
-RIM Blackberry Playbook De-Brick
+RIM Blackberry Playbook De-Brick.
 If you reset your blackberry playbook tablet then it will get bricked at the agreement where no country's show up so if you have a working playbook DO NOT RESET IT OR ELESE IT WILL BE BRICKED!!! 
 
 but if you did reset it or if it was never set up or you forgot the password on it 
