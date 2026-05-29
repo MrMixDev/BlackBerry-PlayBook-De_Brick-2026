@@ -1,4 +1,5 @@
-RIM Blackberry Playbook De-Brick.
+# RIM Blackberry Playbook De-Brick.
+____________________________________________________________________________________________________________________________________________________________________
 If you reset your blackberry playbook tablet then it will get bricked at the agreement where no country's show up so if you have a working playbook DO NOT RESET IT OR ELESE IT WILL BE BRICKED!!! 
 
 but if you did reset it or if it was never set up or you forgot the password on it 
@@ -60,11 +61,11 @@ Click On Install APPS and select the ".bar or .BAR" file you want to install
 
 step 12 
 
-Wait
+Wait for your apps to install.
+_________________________________________________________________________________________________________________________________________________________________
 
-Step 13
+# If you made it here then congratulations you have de-bricked your PlayBook and now you can use it again like its 2013. But If You Want to watch youtube then you have to host a thing called YT2009 using docker
 
-If you made it here then congratulations you have de-bricked your PlayBook and now you can use it again like its 2013. But If You Want to watch youtube then you have to host a thing called YT2009 using docker
 
 Step 1 
 Install Docker 
