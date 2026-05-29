@@ -24,7 +24,7 @@ Step 4
 
 To Install apps you need an old version of chromium that is in this repo and the browser extension to go with it
 
-Download and extract "win_764946_chrome-win.zip from https://archive.org/download/win-764946-chrome-win"
+Download and extract "win_764946_chrome-win.zip" from "https://archive.org/download/win-764946-chrome-win"
 go to the chrome-win Folder
 run chrome.exe
 ignore any api key errors
