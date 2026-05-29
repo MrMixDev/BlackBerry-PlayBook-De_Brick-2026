@@ -64,7 +64,48 @@ Wait
 
 Step 13
 
-If you made it here then congratulations you have de-bricked your PlayBook and now you can use it again like its 2013
+If you made it here then congratulations you have de-bricked your PlayBook and now you can use it again like its 2013. But If You Want to watch youtube then you have to host a thing called YT2009 using docker
+
+Step 1 
+Install Docker 
+
+
+curl -fsSL https://get.docker.com -o get-docker.sh
+sudo sh get-docker.sh
+
+
+Step 2 
+Clone the repo
+
+git clone https://github.com/ftde0/yt2009.git
+cd yt2009
+
+Step 3
+Build The Image
+
+docker build -t yt2009  .
+
+Step 4
+Run the Image
+
+docker run -d \
+  --name playbook-youtube \
+  -p 8080:80 \
+  -e YT2009_IP="192.168.40.100" \
+  -v yt2009-data:/data \
+  --restart unless-stopped \
+  yt2009
+
+Step 5
+
+On The Playbook go to the browser app and put 
+
+HTTP://<YOUR_SERVER_IP>:8080
+
+Step 6 
+Enjoy!
+
+
 
 
  
