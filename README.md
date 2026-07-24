@@ -10,7 +10,7 @@ Note: only tested on the 16gb Blackberry Playbook WI-FI AND ALSO NOTE THAT I WIL
 The autoloaders I have found for this guide that have the setup bypassed where from this guide "https://www.reddit.com/r/PlayBook/comments/1phmro3/downgrade_and_root_your_blackberry_playbook_in/"  
 
 Step 1
-Install Blackberry Desktop Software from "https://archive.org/details/black-berry-desktop-software-7.1_202605", THIS IS NESSACEREY AS NOT DOING THIS STEP WILL RESALT IN ALL OF THE OTHER STEPS FAILING!!!
+Install Blackberry Desktop Software from "https://archive.org/details/black-berry-desktop-software-7.1_202605", THIS IS NESSACEREY AS NOT DOING THIS STEP WILL RESULT IN ALL OF THE OTHER STEPS FAILING!!!
 
 Step 2
 
