@@ -64,7 +64,7 @@ step 12
 Wait for your apps to install.
 _________________________________________________________________________________________________________________________________________________________________
 
-# If you made it here then congratulations you have de-bricked your PlayBook and now you can use it again like its 2013. But If You Want to watch youtube then you have to host a thing called YT2009 using docker
+# If you made it here then congratulations you have de-bricked your PlayBook and now you can use it again like its 2012. But If You Want to watch youtube then you have to host a thing called YT2009 using docker
 
 
 Step 1 
