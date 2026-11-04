@@ -5,8 +5,7 @@ If you reset your blackberry playbook tablet then it will get bricked at the agr
 but if you did reset it or if it was never set up or you forgot the password on it 
 then here's how to fix it 
 
-Note: only tested on the 16gb Blackberry Playbook WI-FI AND ALSO NOTE THAT I WILL NOT BE HELD RESPONSABLE IF YOU BRICK YOUR PLAYBOOK BECAUSE IF YOU FOLOW THIS GUIDE AND FAIL THEN THATS YOUR PROBROM AND NOT MINE SO DONT COME TO ME WITH PICHFORKS AND TOURCHES IF YOU SCREW UP AND ARE FLOWOING THIS GUIDE!!! Also note that you should watch this vid that i did not make and DONT FOLLOW THE STEPS JUST WATCH IT AND OBSERVE SO THAT YOU CAN SEE HOW ITS DONE "https://www.youtube.com/watch?v=adFwuF9Wv6k".
-
+Note: only tested on the 16gb Blackberry Playbook WI-FI AND ALSO NOTE THAT I WILL NOT BE HELD RESPONSABLE IF YOU BRICK YOUR PLAYBOOK BECAUSE IF YOU FOLOW THIS GUIDE AND FAIL THEN THATS YOUR PROBLEM AND NOT MINE SO DONT COME TO ME WITH PICHFORKS AND TOURCHES IF YOU SCREW UP AND ARE FLOWOING THIS GUIDE!!! 
 The autoloaders I have found for this guide that have the setup bypassed where from this guide "https://www.reddit.com/r/PlayBook/comments/1phmro3/downgrade_and_root_your_blackberry_playbook_in/"  
 
 Step 1
@@ -14,12 +13,12 @@ Install Blackberry Desktop Software from "https://archive.org/details/black-berr
 
 Step 2
 
-Plug in The Playbook. IF YOU DONT DO THIS THEN THIS WILL NOT WORK AND MAKE SHURE YOU ARE USEING A GOOD HIGH QUALTY MICROUSB DATA CABLE!!!
+Plug in The Playbook. IF YOU DON'T DO THIS THEN THIS WILL NOT WORK AND MAKE SHURE YOU ARE USEING A GOOD HIGH QUALTY MICROUSB DATA CABLE!!!
 
 Step 3 
 
 
-To de-brick and keep it on the latest version 2.1.0.1917 Download and Run "PlayBook_2.1.0.1917.modded.exe" From "https://archive.org/download/playbook-root-downgrade-1.0/2.1.0.1917/".  DO NOT AND I MEAN DO NOT UNDER ANY CURCANSTANCE UNPLUG THE PLAYBOOK UNTILL THE WINDOW CLOSES AND THE PLAYBOOK BOOTS TO THE HOME SCREEN. IF YOU DO THEN YOUR SCREWED AND YOU SHOUD HATE YOURSELF FOREVER!!!
+To de-brick and keep it on the latest version 2.1.0.1917 Download and Run "PlayBook_2.1.0.1917.modded.exe" From "https://archive.org/download/playbook-root-downgrade-1.0/2.1.0.1917/".  DO NOT AND I MEAN DO NOT UNDER ANY CURCANSTANCE UNPLUG THE PLAYBOOK UNTILL THE WINDOW CLOSES AND THE PLAYBOOK BOOTS TO THE HOME SCREEN. IF YOU DO THEN YOUR SCREWED AND YOU SHOUD HATE YOURSELF FOREVER AS YOUR PLAYBOOK MIGHT GET BRICKED EVEN WORSE FROM DOING SO!!!
 
 Step 4 
 
